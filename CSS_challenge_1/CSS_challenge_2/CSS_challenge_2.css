@@ -1,0 +1,26 @@
+body {
+    background: lightgreen;
+}
+
+h1 {
+    text-decoration: underline;
+    color: darkmagenta;
+    text-align: center;
+}
+
+h2 {
+    color: navy;
+    text-align: center;
+}
+
+.courses {
+    color: yellow;
+}
+
+.coders {
+    color: green;
+}
+
+.stories {
+    color: coral;
+}
