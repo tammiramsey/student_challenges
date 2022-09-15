@@ -2,9 +2,16 @@
 
 h1 {
     color: #004445;
+    text-decoration: underline;
+}
+
+.instructions {
+    font-size: larger;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 p {
-    font-size: large;
     color: #2c786c;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
