@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<!--Follow the directions on the page. There are a total of 3 challenges.-->
+<html>
+  <head>
+    <title>SheCodes Plus</title>
+    <meta charset="UTF-8" />
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <style>
+   body {
+        font-family: sans-serif;
+        padding: 0 20px;
+        }
+
+    h1 {
+        text-align: center;
+        font-weight: 900;
+        margin: 0;
+        font-size: 34px;
+        line-height: 48px;
+        }
+
+h1 h2,h3 {
+  color: #231d3c;
+    }
+
+.logo {
+  display: block;
+  margin: 30px auto;
+  width: 150px;
+    }
+    </style>
+  </head>
+
+  <body>
+    <img src="#" alt="Replace ALT Text Here" class="logo" />
+    <h1>Missing files debugging</h1>
+
+    <h3>Challenge 1</h3>
+    <p>Fix the CSS & Insert an image</p>
+
+    <h3>Challenge 2</h3>
+    <p>
+      Move the CSS file into a different folder and make sure it works
+    </p>
+    <h3>Challenge 3</h3>
+    <p>
+      Create a JavaScript file called hello.js (place it inside a folder called
+      javascript) which alert "Welcome to SheCodes" and include it here
+    </p>
+  </body>
+</html>
