@@ -40,11 +40,10 @@
     <p>Fix the CSS by creating a CSS file & Insert an image</p>
 
     <h3>Challenge 2</h3>
-    <p>Move the CSS file into a different folder entitled "js_challenge_3" and make sure it works</p>
+    <p>Move the CSS file into the folder and make sure it works</p>
     <h3>Challenge 3</h3>
     <p>
-      Create a JavaScript file called hello.js (place it inside the folder called
-      js_challenge_3) which alert "Welcome to Computer Programming" and include it
+      Create a JavaScript file called hello.js (and place it inside the folder) which alerts "Welcome to Computer Programming" and include it
      here
     </p>
   </body>
