@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+    background-color: #6666CD;
+}
+
+.comic {
+    display: block;
+    margin: 30px auto;
+    width: 450px;
+}
+
+.center {
+    display: block;
+    text-align: center;
+}
