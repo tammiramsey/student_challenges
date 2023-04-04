@@ -4,13 +4,12 @@ body {
     background-color: #8e4dd8;
 }
 
+h1 {
+    text-align: center;
+}
+
 .comic {
     display: block;
     margin: 30px auto;
     width: 450px;
-}
-
-.center {
-    display: block;
-    text-align: center;
 }
