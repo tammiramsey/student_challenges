@@ -1,3 +1,5 @@
+All changes for JS should be in the appropriate JS files. There should be no additional script work added to the HTML file.
+
 Complete the following tasks for this challenge: 
 
 1. Start with the hint box. Select the hint box by its class, 'hint-box', and create an event handler for it on 'click'. Because we are selecting the element by its class, remember to use . when selecting it. Leave the callback function empty for now.
