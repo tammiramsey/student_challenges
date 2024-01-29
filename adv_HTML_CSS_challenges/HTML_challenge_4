@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<!--Instructions: 
+<!-- POINT VALUE: 2 POINTS
+Instructions: 
     1. From this starter kit, you will be making multiple files. 
     You decide how to best do that.
     2. Make changes to the HTML file to include a div, span, section, 
@@ -8,6 +9,7 @@
     The styling should not be impacted. 
     4. Add a local image into your HTML file. 
     Forked from mattdelac-->
+
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
