@@ -11,4 +11,4 @@
 // Remove Monday and Tuesday from the array
 
 // Challenge 5
-// Log every day of the week this way: `Temperate on Monday is 75 degrees'
+// Log every day of the week this way: `Temperature on Monday is 75 degrees'
